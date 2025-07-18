@@ -2,10 +2,10 @@
 //// Overworld_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Overworld project repositories by @seanpm2001
-//// As of 2025, Wednesday, July 16th
+//// As of 2025, Thursday, July 17th
 
 //// ----------------------------------------------------- \\\\
-//// Overworld Project (16)
+//// Overworld Project (24)
 //// ----------------------------------------------------- \\\\
 
 //// Core overworld (1)
@@ -52,17 +52,37 @@ https://github.com/seanpm2001/Slaveworks_Oveworld_Docs
 https://github.com/seanpm2001/Boom-Bay_Overworld
 https://github.com/seanpm2001/Boom-Bay_Overworld_Docs
 
-//// iBlast overworld (1)
+//// iBlast overworld (2)
 
 https://github.com/seanpm2001/iBlast_Overworld
+https://github.com/seanpm2001/iBlast_Overworld_Docs
+
+//// Ukraine History Simulator (2)
+
+https://github.com/seanpm2001/Ukraine-History-Simulator_Overworld
+https://github.com/seanpm2001/Ukraine-History-Simulator_Overworld_Docs
+
+//// LibreFlock (2)
+
+https://github.com/seanpm2001/LibreFlock_Overworld
+https://github.com/seanpm2001/LibreFlock_Overworld_Docs
+
+//// Tetris128 (2)
+
+https://github.com/seanpm2001/Tetris128_Overworld
+https://github.com/seanpm2001/Tetris128_Overworld_Docs
+
+//// Turkey Stories (1)
+
+https://github.com/seanpm2001/Turkey-Stories_Overworld
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Overworld): 16
-//// 1+1+1+2+2+2+2+2+2+1=16
+//// Repo count (Overworld): 24
+//// 1+1+1+2+2+2+2+2+2+2+2+2+2+1=24
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
-//// See also (7)
+//// See also (11)
 
 //// PVZ Custom (1)
 
@@ -92,19 +112,35 @@ https://github.com/seanpm2001/Boom-Bay
 
 https://github.com/seanpm2001/iBlast
 
+//// Ukraine History Simulator (1)
+
+https://github.com/seanpm2001/Ukraine-History-Simulator
+
+//// LibreFlock (1)
+
+https://github.com/seanpm2001/LibreFlock
+
+//// Tetris128 (1)
+
+https://github.com/seanpm2001/Tetris128
+
+//// Turkey Stories (1)
+
+https://github.com/seanpm2001/Turkey-Stories
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 7
-//// 1+1+1+1+1+1+1=7
+//// Repo count (See also): 11
+//// 1+1+1+1+1+1+1+1+1+1+1=11
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 23
-//// 16+7=23
+//// Total repo count: 35
+//// 24+11=35
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2025, Wednesday, July 16th at 07:10 pm PST)
-//// Line count (including blank lines and compiler line): 111
+//// File version: 3 (2025, Thursday, July 17th at 06:46 pm PST)
+//// Line count (including blank lines and compiler line): 147
 //// ----------------------------------------------------- \\\\
 
 //// End of file
