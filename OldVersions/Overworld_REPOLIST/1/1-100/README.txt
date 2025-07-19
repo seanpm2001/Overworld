@@ -2,10 +2,10 @@
 //// Overworld_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Overworld project repositories by @seanpm2001
-//// As of 2025, Thursday, July 17th
+//// As of 2025, Friday, July 18th
 
 //// ----------------------------------------------------- \\\\
-//// Overworld Project (24)
+//// Overworld Project (27)
 //// ----------------------------------------------------- \\\\
 
 //// Core overworld (1)
@@ -72,17 +72,23 @@ https://github.com/seanpm2001/LibreFlock_Overworld_Docs
 https://github.com/seanpm2001/Tetris128_Overworld
 https://github.com/seanpm2001/Tetris128_Overworld_Docs
 
-//// Turkey Stories (1)
+//// Turkey Stories (2)
 
 https://github.com/seanpm2001/Turkey-Stories_Overworld
+https://github.com/seanpm2001/Turkey-Stories_Overworld_Docs
+
+//// Snail Bob maker (2)
+
+https://github.com/seanpm2001/Snail-Bob-Maker_Overworld
+https://github.com/seanpm2001/Snail-Bob-Maker_Overworld_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Overworld): 24
-//// 1+1+1+2+2+2+2+2+2+2+2+2+2+1=24
+//// Repo count (Overworld): 27
+//// 1+1+1+2+2+2+2+2+2+2+2+2+2+2+2=27
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
-//// See also (11)
+//// See also (12)
 
 //// PVZ Custom (1)
 
@@ -128,19 +134,23 @@ https://github.com/seanpm2001/Tetris128
 
 https://github.com/seanpm2001/Turkey-Stories
 
+//// Snail Bob Maker (1)
+
+https://github.com/seanpm2001/Snail-Bob-Maker
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 11
-//// 1+1+1+1+1+1+1+1+1+1+1=11
+//// Repo count (See also): 12
+//// 1+1+1+1+1+1+1+1+1+1+1+1=12
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 35
-//// 24+11=35
+//// Total repo count: 39
+//// 27+12=39
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 3 (2025, Thursday, July 17th at 06:46 pm PST)
-//// Line count (including blank lines and compiler line): 147
+//// File version: 4 (2025, Friday, July 18th at 07:39 pm PST)
+//// Line count (including blank lines and compiler line): 157
 //// ----------------------------------------------------- \\\\
 
 //// End of file
