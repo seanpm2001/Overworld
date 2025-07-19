@@ -4,9 +4,9 @@
   }{
   "idea": "This overworld file will contain links to other overworlds. It is essentially an overworld of overworlds"
   }{
-  "timestamp": "V3: 2025, Thursday, July 17th at 11:45 am PST"
+  "timestamp": "V4: 2025, Friday, July 18th at 03:05 pm PST"
   }{
-  "line count (including blank lines and compiler line)": 60
+  "line count (including blank lines and compiler line)": 63
   }{
 }"End of file overview"{}
 {
@@ -54,6 +54,9 @@
       "world2-5-ID": "Turkey-Stories-Overworld"{
       "tooltip2-5": "World 2-5 - Turkey Stories Overworld"
       }"2-5"{
+      "world2-6-ID": "Snail-Bob-Maker-Overworld"{
+      "tooltip2-6": "World 2-6 - Snail Bob Maker Overworld"
+      }"2-6"{
     }"End of world 2"{}
   }"End of overworld map"{}
 }"End of file"
